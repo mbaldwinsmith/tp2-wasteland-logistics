@@ -1,6 +1,10 @@
 # Wasteland Logistics  
 ### A Post-War Reconstruction Overhaul Mod for *Transport Fever 2*
 
+<p align="center">
+  <img src="res/textures/ui/banner.png" alt="Wasteland Logistics Banner" width="100%">
+</p>
+
 ![status](https://img.shields.io/badge/status-Early%20Development-orange)
 ![version](https://img.shields.io/badge/version-0.1.0-blue)
 ![license](https://img.shields.io/badge/license-MIT-green)
@@ -11,10 +15,6 @@
 Set a century after global devastation, scattered settlements depend on you — a **Reclaimer** — to reconnect the world through trade, industry, and ingenuity.
 
 This mod introduces new biomes, industries, vehicles, assets, UI, and a fully redesigned economy built on scrap recovery, renewable energy, and rediscovered pre-war technology.
-
-<p align="center">
-  <img src="res/textures/ui/banner.png" alt="Wasteland Logistics Banner" width="100%">
-</p>
 
 ---
 
