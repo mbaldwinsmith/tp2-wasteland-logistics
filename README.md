@@ -2,7 +2,7 @@
 ### A Post-War Reconstruction Overhaul Mod for *Transport Fever 2*
 
 <p align="center">
-  <img src="res/textures/ui/banner.png" alt="Wasteland Logistics Banner" width="100%">
+  <img src="banner.png" alt="Wasteland Logistics Banner" width="100%">
 </p>
 
 ![status](https://img.shields.io/badge/status-Early%20Development-orange)
