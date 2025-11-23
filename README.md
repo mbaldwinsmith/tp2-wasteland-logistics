@@ -13,7 +13,7 @@ Set a century after global devastation, scattered settlements depend on you — 
 This mod introduces new biomes, industries, vehicles, assets, UI, and a fully redesigned economy built on scrap recovery, renewable energy, and rediscovered pre-war technology.
 
 <p align="center">
-  <img src="/res/textures/ui/banner.png" alt="Wasteland Logistics Banner" width="100%">
+  <img src="res/textures/ui/banner.png" alt="Wasteland Logistics Banner" width="100%">
 </p>
 
 ---
